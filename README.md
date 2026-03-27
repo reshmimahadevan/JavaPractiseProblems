@@ -1,0 +1,27 @@
+# Java Practice Problems
+
+A collection of Java programs I'm working through to get comfortable with Core Java and OOP concepts. Also using this to prep for technical interviews.
+
+---
+
+## Project Structure
+
+| Package | Description |
+| :--- | :--- |
+| `javaprogram` | Common Java interview questions and solutions |
+| `javaprogram2025` | Basics — variables, data types, operators |
+| `abstraction` | Abstract classes and methods |
+| `inheritanceconcept` | Parent-child class relationships |
+| `inheritanceassignment` | Inheritance exercises focused on code reusability |
+| `interfaceconcept` | Interfaces and multiple inheritance |
+| `builderpattern` | Builder design pattern |
+| `superkeyword` | Using `super` to access parent class members |
+| `javaassignment2025` | Miscellaneous practice exercises |
+
+---
+
+## Tech Stack
+
+- Java 11+
+- Eclipse IDE
+
