@@ -4,8 +4,6 @@ A collection of Java programs I'm working through to get comfortable with Core J
 
 ---
 
-## Project Structure
-
 | Package | Description |
 | :--- | :--- |
 | `javaprogram` | Common Java interview questions and solutions |
@@ -14,7 +12,8 @@ A collection of Java programs I'm working through to get comfortable with Core J
 | `inheritanceconcept` | Parent-child class relationships |
 | `inheritanceassignment` | Inheritance exercises focused on code reusability |
 | `interfaceconcept` | Interfaces and multiple inheritance |
-| `builderpattern` | Builder design pattern |
+| `builderpattern` | Class-based programs exploring the Builder pattern |
+| `exceptionhandling` | Exception handling examples and custom exceptions |
 | `superkeyword` | Using `super` to access parent class members |
 | `javaassignment2025` | Miscellaneous practice exercises |
 
