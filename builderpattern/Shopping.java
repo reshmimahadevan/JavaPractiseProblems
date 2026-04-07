@@ -1,6 +1,6 @@
 package builderpattern;
 
-public class Shopping {
+public class Shopping extends Purchase {
 
 	public Shopping login() {
 		System.out.println("login to app ");

@@ -4,7 +4,13 @@ public class AmazonShop {
 
 	public static void main(String[] args) {
 
+		
+		Purchase p = new Purchase();
+		p.search();
+		
 		Shopping shop = new Shopping();
+		
+		shop.purchase();
 
 		// sc1:
 		shop.login("noman@gmail.com", "noman@123").search("Tshirt").addToCart("Tshirt")
