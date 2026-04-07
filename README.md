@@ -9,6 +9,8 @@ A collection of Java programs I'm working through to get comfortable with Core J
 | `javaprogram` | Common Java interview questions and solutions |
 | `javaprogram2025` | Basics — variables, data types, operators |
 | `abstraction` | Abstract classes and methods |
+| `accessmodifier` | Access modifiers — same class and same package scenarios |
+| `accessmodifier1` | Access modifiers — different package with and without subclass |
 | `inheritanceconcept` | Parent-child class relationships |
 | `inheritanceassignment` | Inheritance exercises focused on code reusability |
 | `interfaceconcept` | Interfaces and multiple inheritance |
