@@ -17,6 +17,9 @@ A collection of Java programs I'm working through to get comfortable with Core J
 | `builderpattern` | Class-based programs exploring the Builder pattern |
 | `exceptionhandling` | Exception handling examples and custom exceptions |
 | `superkeyword` | Using `super` to access parent class members |
+| `constrcutorconcept` | Constructor chaining using `this()` and `super()` |
+| `stringmanipulation` | String manipulation — concept and assignment |
+| `dataconversion` | Data type conversion — concept and practice |
 | `javaassignment2025` | Miscellaneous practice exercises |
 
 ---
