@@ -12,7 +12,7 @@ public class Student_Finally {
 			try {
 				// int i = 9 / 3;
 				int i = 9 / 0;
-				System.exit(1);
+				System.exit(1); //JVM will stop the whole program terminates
 				return 90;
 			} catch (ArithmeticException e) {
 				System.out.println("AE is coming");
