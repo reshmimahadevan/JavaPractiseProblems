@@ -26,6 +26,14 @@ public class DataConvert {
 		int j = Integer.parseInt(y.replace("A", ""));
 		System.out.println(j + 20);
 
+		// Null Pointer Exception
+        // String y1 = null;
+        // Double j1 = Double.parseDouble(y1);
+
+		// Number Format Exception
+		String y2 = null;
+		Integer j2 = Integer.parseInt(y2);
+
 		String totalPrice = "1000";
 		int price = Integer.parseInt(totalPrice);
 		System.out.println(price - 100);
