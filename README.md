@@ -20,6 +20,8 @@ A collection of Java programs I'm working through to get comfortable with Core J
 | `constrcutorconcept` | Constructor chaining using `this()` and `super()` |
 | `stringmanipulation` | String manipulation — concept and assignment |
 | `dataconversion` | Data type conversion — concept and practice |
+| `arraylist` | ArrayList — concept and assignment |
+| `map` | Basic Map programs and usage |
 | `javaassignment2025` | Miscellaneous practice exercises |
 
 ---
