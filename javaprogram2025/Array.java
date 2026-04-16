@@ -113,10 +113,9 @@ public class Array {
 
 		int count = t.length - 1;
 		for (int e : t) {
-			// e will point to 0 index to make it point it to last index assigning it to
-			// count
+			// e will point to 0 index to make it point it to last index assigning it to count
 			e = count;
-			t[1] = 0;
+			//t[1] = 0;
 			System.out.println(e + " " + t[e]);
 			count--;
 
