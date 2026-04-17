@@ -7,7 +7,7 @@ A collection of Java programs I'm working through to get comfortable with Core J
 | Package | Description |
 | :--- | :--- |
 | `javaprogram` | Common Java interview questions and solutions |
-| `javaprogram2025` | Basics — variables, data types, operators |
+| `javaprogram2025` | Basics — variables, data types, operators, HashMap |
 | `abstraction` | Abstract classes and methods |
 | `accessmodifier` | Access modifiers — same class and same package scenarios |
 | `accessmodifier1` | Access modifiers — different package with and without subclass |
@@ -18,12 +18,15 @@ A collection of Java programs I'm working through to get comfortable with Core J
 | `exceptionhandling` | Exception handling examples and custom exceptions |
 | `superkeyword` | Using `super` to access parent class members |
 | `constrcutorconcept` | Constructor chaining using `this()` and `super()` |
-| `stringmanipulation` | String manipulation — concept and assignment |
-| `dataconversion` | Data type conversion — concept and practice |
-| `arraylist` | ArrayList — concept and assignment |
-| `map` | Basic Map programs and usage |
+| `stringmanipulationconcept` | String manipulation — core concepts |
+| `stringmanipulationassignment` | String manipulation — practice assignments |
+| `DataConversion` | Data type conversion — concept and practice |
+| `DynamicArray` | Dynamic array programs |
+| `ArrayListAssignment` | ArrayList — concept and assignment |
+| `MapTesting` | Map programs and usage |
+| `setconcept` | Set collection — concept and practice |
+| `PropertiesFile` | Working with Java Properties files |
 | `javaassignment2025` | Miscellaneous practice exercises |
-
 ---
 
 ## Tech Stack
