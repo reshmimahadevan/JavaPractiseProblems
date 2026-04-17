@@ -83,7 +83,7 @@ public class MapConcept {
 		hm2.put("efgs", 88);
 		hm2.put(" ", 60);
 		hm2.put("Chrome", 80);
-		// Null Key not allowed in Tree Map - Null Pointer Exception
+		// Null Key not allowed in Tree Map - Null Pointer Exception - as sorting will not be able to done
 		// hm2.put(null, 90);
 		System.out.println(hm2);
 
