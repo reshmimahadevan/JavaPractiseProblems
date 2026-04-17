@@ -47,6 +47,7 @@ public class MapConcept {
 		System.out.println("-------------------");
 
 		//For loop - since its not indexed based
+		//When you need both keys and values - use entryset
 		for (Entry<String, Integer> entry : hm.entrySet()) {
 			System.out.println(entry.getKey() + " : " + entry.getValue());
 		}

@@ -32,6 +32,10 @@ public class HashSetConcept {
 		for (String e : browserSet) {
 			System.out.println(e);
 		}
+		
+		System.out.println("Using Lambda");
+		System.out.println("==============");
+		browserSet.forEach(e -> System.out.println(e));
 
 		// Or use iterator
 		//Duplicate nulls allowed
